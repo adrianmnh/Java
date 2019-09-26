@@ -37,6 +37,7 @@ public class BinaryTableConstructor {
 		 * inputVar.next(); // } // } while(High<0);
 		 */			
 			High = tryAgain(High,1) + 1;
+		
 				
 			//System.out.printf("%.0f\n",Math.pow(2, High));
 			
